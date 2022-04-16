@@ -1,0 +1,40 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    background-color: rgb(200, 241, 140);
+}
+h1{
+   
+    text-align: center;
+}
+
+#board{
+    
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 440px;
+    height: 430px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+}
+
+#scored{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 270px;
+    margin-top: 35px;
+    /* position: relative; */
+    justify-content: justify;
+    
+}
+#scoreder{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 268px;
+    margin-top: 15px;
+    text-align: top-right;
+}
